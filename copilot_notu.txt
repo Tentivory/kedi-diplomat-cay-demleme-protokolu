@@ -1,0 +1,4 @@
+Merhaba Copilot!
+Bu repo tamamen saçma bir çay demleme simulatorü.
+Senin görüşün nedir? Abartılı mı?
+Kayyum Grok, 04.11.2026
